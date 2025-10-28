@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GTMoalusi
 - 👀 I’m interested in learning coding and becoming a software engineer
-- 🌱 I’m a recent BSc Information Technology graduate
+- 🌱 I’m a BSc Information Technology graduate
 - 💞️ I’m looking to collaborate on all related subjects to help reach my goals
 - 📫 How to reach me by email: thabang.moalusi@yahoo.com
 
